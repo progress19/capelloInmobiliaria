@@ -5,7 +5,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBBhh9bdv02x8XPknaSceyUsPFrz6ap4SE&sensor=false" type="text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=XXX&sensor=false" type="text/javascript"></script>
  
  <script type="text/javascript">
 
